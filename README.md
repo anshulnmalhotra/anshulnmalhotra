@@ -38,22 +38,23 @@
 
 <h3 align="left">My Tech Toolbox 🧰</h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  width="40" height="40">  </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"  width="40" height="40">  </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="AWS"  width="60" height="40">  </a>
-<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala"  width="40" height="40">  </a>
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"  width="40" height="40">  </a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" alt="Hadoop"  width="50" height="40">  </a>
-<a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="Spark"  width="70" height="40">  </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" alt="kafka"  width="70" height="40">  </a> 
-   
- 
-
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" alt="Hadoop"  width="50" height="40">  </a> &nbsp
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="Spark"  width="70" height="40">  </a> &nbsp
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" alt="kafka"  width="70" height="40">  </a> &nbsp
+<a href="https://hive.apache.org/index.html/" target="_blank"> <img src="https://hive.apache.org/images/hive_logo_medium.jpg" alt="Hive"  width="60" height="40"> </a> &nbsp
+<a href="https://hbase.apache.org/" target="_blank"> <img src="https://hbase.apache.org/images/hbase_logo_with_orca_large.png" alt="hbase"  width="80" height="40"> </a> &nbsp
+<a href="https://cassandra.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png" alt="Cassandra"  width="70" height="40"> </a> &nbsp
+<a href="https://www.qubole.com/" target="_blank"> <img src="https://www.qubole.com/wp-content/uploads/2020/04/qubole-logo-short.png" alt="Qubole"  width="80" height="40"> </a> &nbsp
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="40"/> </a> &nbsp
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> &nbsp
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  width="80" height="40">  </a> &nbsp
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"  width="40" height="40">  </a> &nbsp
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="AWS"  width="60" height="40">  </a> &nbsp
+<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala"  width="40" height="40">  </a> &nbsp
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"  width="60" height="40">  </a>
 </p>
 <br>
 
