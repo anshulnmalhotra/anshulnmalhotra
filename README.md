@@ -38,17 +38,21 @@
 
 <h3 align="left">My Tech Toolbox 🧰</h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  width="40" height="40">
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"  width="40" height="40">
- <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="AWS"  width="40" height="40">
-<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala"  width="40" height="40">
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"  width="40" height="40">
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  width="40" height="40">  </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"  width="40" height="40">  </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="AWS"  width="60" height="40">  </a>
+<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala"  width="40" height="40">  </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"  width="40" height="40">  </a>
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" alt="Hadoop"  width="50" height="40">  </a>
+<a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" alt="Spark"  width="70" height="40">  </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" alt="kafka"  width="70" height="40">  </a> 
    
+ 
 
 </p>
 <br>
@@ -57,10 +61,10 @@
 <table>
 <tr>
 <td valign="top" width="100%">
-
-### My Latest Blog Posts 📕
+ 
+### My Recent Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [Elements of Scala functional Programming](https://anshulnmalhotra.medium.com/elements-of-scala-functional-programming-4a74c2ba60a3)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@anshulnmalhotra/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@anshulnmalhotra/0" alt="Elements of Scala functional Programming"></img></a>
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts to come ...]
 </td>
@@ -78,30 +82,31 @@
 
 <br>
 
- ![Visitor Count](https://profile-counter.glitch.me/{anshulnmalhotra}/count.svg)
  
- 
- <h3 align="left">If you like what I do, maybe consider buying me a coffee:</h3>
+<div align="center">  
+<h3 align="center">If you like what I do, maybe consider buying me a coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/anshulnmalhotra"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support the work" /></a></p>
-
- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+ 
+### Show ❤️ by 🌟 my [repositories](https://github.com/anshulnmalhotra?tab=repositories)!
+</div>
+ 
  
  <p align="center">
 <!-- <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Connect on Dev To" height="30" width="30" /></a> -->
 <a href="https://twitter.com/blazein4u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Connect on Twitter" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/anshulnmalhotra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Connect on Linkedin" height="30" width="30" /></a>
 <!--<a href="https://stackoverflow.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="" height="30" width="30" /></a>
-<a href="https://kaggle.com/akhilgkrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="" height="30" width="30" /></a>-->
+<a href="https://kaggle.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="" height="30" width="30" /></a>-->
 <a href="https://fb.com/blazein4u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Connect on facebook" height="30" width="30" /></a>
 <a href="https://instagram.com/blazein4u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Connect on Insta" height="30" width="30" /></a>
 <a href="https://anshulnmalhotra.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Connect on Medium" height="30" width="30" /></a>
 <a href="mailto:anshulnmalhotra@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Connect on Gmail" height="30" width="30" /></a>
-  
-  
- 
 </p>
+ 
+ 
+ 
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=anshulnmalhotra" /> </div>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=anshulnmalhotra" />
 
 
 
