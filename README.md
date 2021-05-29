@@ -1,16 +1,19 @@
 
-![alt text](https://github.com//blob/master) 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anshul Malhotra <br><br></a>
 </h1>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<!-- Cover image to add later -->
+<!-- ![alt text](https://github.com/anshulnmalhotra/anshulnmalhotra/blob/master/cover.png) -->
+
+<!--
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
 
 <h3 align="center">A passionate Software Enthusiast who has interest in Data Science. I would describe myself as a keen learner in data science. I am enthusiastic & motivated to apply my skills in a real-life project which can impact people.</h3>
 
 <br>
 
-- 🏦 I'm currently working for a US based travel ginat where i make data engineering applications using Big Data tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm currently working for a US based travel company where i make data engineering applications using Big Data tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 I’m currently learning **Python**
 
@@ -33,14 +36,21 @@
 - ❤️ I would love to work on AI/ML.
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Toolbox 🧰</h3>
 <p align="left">
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> </p>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  width="40" height="40">
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"  width="40" height="40">
+ <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="AWS"  width="40" height="40">
+<a href="https://www.scala-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala"  width="40" height="40">
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins"  width="40" height="40">
+   
+
+</p>
 <br>
 
 
@@ -50,7 +60,7 @@
 
 ### My Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
-- [Elements of Scala functional Programming] (https://anshulnmalhotra.medium.com/elements-of-scala-functional-programming-4a74c2ba60a3)
+- [Elements of Scala functional Programming](https://anshulnmalhotra.medium.com/elements-of-scala-functional-programming-4a74c2ba60a3)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts to come ...]
 </td>
@@ -73,8 +83,7 @@
  
  <h3 align="left">If you like what I do, maybe consider buying me a coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/anshulnmalhotra"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Support the work" /></a></p>
-<br> 
- 
+
  <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
  
  <p align="center">
@@ -86,7 +95,13 @@
 <a href="https://fb.com/blazein4u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Connect on facebook" height="30" width="30" /></a>
 <a href="https://instagram.com/blazein4u" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Connect on Insta" height="30" width="30" /></a>
 <a href="https://anshulnmalhotra.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Connect on Medium" height="30" width="30" /></a>
+<a href="mailto:anshulnmalhotra@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Connect on Gmail" height="30" width="30" /></a>
+  
+  
+ 
 </p>
+
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=anshulnmalhotra" />
 
 
 
